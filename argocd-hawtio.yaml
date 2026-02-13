@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/anutekar/hawtio-helm.git
     targetRevision: main
-    path: hawtio-helm
+    path: helm
     helm:
       valueFiles:
         - values.yaml
